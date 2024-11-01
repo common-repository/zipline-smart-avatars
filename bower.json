@@ -1,0 +1,18 @@
+{
+  "name": "zipline-plugin-starter",
+  "description": "Zipline starter plugin description.",
+  "license": "All rights reserved.",
+  "authors": [
+    "Zipline"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

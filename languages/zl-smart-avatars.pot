@@ -1,0 +1,61 @@
+# Copyright (C) 2023 Zipline Smart Avatars
+# This file is distributed under the same license as the Zipline Smart Avatars package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zipline Smart Avatars\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Zipline\n"
+"POT-Creation-Date: 2023-11-16 14:18+0000\n"
+"Report-Msgid-Bugs-To: hello@wearezipline.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/redux-configuration.php:218, src/redux-configuration.php:266
+msgid "This avatar will be assigned to every new user and any added through the admin panel."
+msgstr ""
+
+#: src/redux-configuration.php:219, src/redux-configuration.php:267
+msgid "For a better looking community, enable 'Random Avatars'."
+msgstr ""
+
+#: src/redux-configuration.php:324
+msgid "Choose from one of the inbuilt banks or upload your own."
+msgstr ""
+
+#: src/redux-configuration.php:336
+msgid "Assign a random avatar from a library of images."
+msgstr ""
+
+#: src/redux-configuration.php:443
+msgid "Assign a cover image from a library of images."
+msgstr ""
+
+#: src/redux-configuration.php:466
+msgid "This cover image will be assigned to every new user."
+msgstr ""
+
+#: src/redux-configuration.php:467, src/redux-configuration.php:570
+msgid "For a better looking community, enable 'Random Cover Images'."
+msgstr ""
+
+#: src/redux-configuration.php:546
+msgid "Assign a group avatar from a library of images."
+msgstr ""
+
+#: src/redux-configuration.php:569
+msgid "This group avatar will be assigned to every new user."
+msgstr ""
+
+#: src/redux-configuration.php:649
+msgid "Assign a group cover image from a library of images."
+msgstr ""
+
+#: src/redux-configuration.php:672
+msgid "This group cover image will be assigned to every new group."
+msgstr ""

@@ -1,0 +1,13 @@
+.redux-container .redux_field_th{margin-top:16px}
+.redux-container .redux-container-raw,.redux-container .redux-container-image_select,.redux-container .redux-container-gallery{margin-top:16px}
+#zipline_smart_avatars-display-theme-one,#zipline_smart_avatars-display-theme-two{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;width:500px}
+#zipline_smart_avatars-display-theme-two .avatar-wrap img,#zipline_smart_avatars-display-theme-one .avatar-wrap img{max-height:100px;max-width:100px;padding-right:10px;border-radius:50%}
+#zipline_smart_avatars-create-gallery .screenshot,#zipline_smart_avatars-create-cover-image-gallery .screenshot,#zipline_smart_avatars-create-group-avatar-gallery .screenshot,#zipline_smart_avatars-create-group-cover-image-gallery .screenshot{max-width:500px}
+#zipline_smart_avatars-create-gallery .screenshot img,#zipline_smart_avatars-create-cover-image-gallery .screenshot img,#zipline_smart_avatars-create-group-avatar-gallery .screenshot img,#zipline_smart_avatars-create-group-cover-image-gallery .screenshot img{height:100px !important;width:100px !important;margin-right:10px;border-radius:50%}
+#confirm-modal{position:fixed;left:0;top:0;width:100vw;height:100vh;z-index:9998;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:rgba(0,0,0,0.5)}
+#confirm-modal-inner{background-color:white;width:220px;height:120px;border:1px solid #2271b1;border-radius:5px;-webkit-box-shadow:0 5px 15px rgba(0,0,0,0.5);box-shadow:0 5px 15px rgba(0,0,0,0.5);z-index:100;position:fixed;top:50%;left:50%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:20px}
+#confirm-modal-inner .button-wrap{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+#confirm-modal-inner button{width:100px}
+#zipline_smart_avatars-choose-default-cover-image .redux-table-container ul li label img,#zipline_smart_avatars-choose-default-group-avatar .redux-table-container ul li label img,#zipline_smart_avatars-choose-default-group-cover-image .redux-table-container ul li label img{height:100px !important;width:100px !important;margin-right:10px;border-radius:50%}
+.redux-container .overlay{background-color:white;opacity:.3;z-index:2;pointer-events:none}
+.redux-container .allow-interaction{opacity:1 !important;pointer-events:all !important}
